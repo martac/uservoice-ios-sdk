@@ -66,15 +66,15 @@
 
 "Feedback" = "Commenti";
 
-"Feedback & Support" = "Commenti e Assistenza";
+"Feedback & Support" = "Feedback e Assistenza";
 
-"Feedback Forum" = "Forum Commenti";
+"Feedback Forum" = "Forum";
 
 "Forgot password" = "Password dimenticata";
 
-"Give feedback or ask for help..." = "Lascia un commento o richiedi un aiuto...";
+"Give feedback or ask for help..." = "Scrivi un messaggio, un suggerimento o una richiesta d'assistenza.";
 
-"Great! Glad we could help." = "Grande! Siamo felici di poterti aiutare.";
+"Great! Glad we could help." = "Perfetto! Siamo felici di poterti aiutare.";
 
 "I want this" = "Voglio questo";
 
@@ -82,9 +82,9 @@
 
 "Ideas" = "Idee";
 
-"Knowledge Base" = "Informazioni di base";
+"Knowledge Base" = "Informazioni di Base";
 
-"Knowledge base" = "Informazioni di Base";
+"Knowledge base" = "Informazioni di base";
 
 "Load more" = "Carica altro";
 
@@ -120,9 +120,9 @@
 
 "Powered by UserVoice" = "Powered by UserVoice";
 
-"Related articles" = "Articoli collegati";
+"Related articles" = "Articoli correlati";
 
-"Related feedback" = "Commenti collegati";
+"Related feedback" = "Feedback correlati";
 
 "Save draft" = "Salva bozza";
 
@@ -146,7 +146,7 @@
 
 "There appears to be a problem with your network connection, please check your connectivity and try again." = "Sembra che ci sia un problema con la tua connessione di rete. Controllala e riprova.";
 
-"There was a problem logging you in." = "C'è stato un problema con il tuo login.";
+"There was a problem logging you in." = "C'è stato un problema con la tua login.";
 
 "this" = "questo";
 
@@ -164,9 +164,9 @@
 
 "Was this article helpful?" = "Ti è stato utile questo articolo?";
 
-"We'll be in touch." = "Ci sentiamo presto.";
+"We'll be in touch." = "Ti scriveremo presto.";
 
-"When you post an idea on our forum, others will be able to subscribe to it and make comments. When we respond to the idea, you'll get notified." = "Quando invii un'idea al nostro forum, gli altri possono sostenerla e commentarla. Riceverai una notifica quando risponderemo alla tua idea.";
+"When you post an idea on our forum, others will be able to subscribe to it and make comments. When we respond to the idea, you'll get notified." = "Quando scrivi un'idea sul nostro forum, gli altri possono sostenerla e commentarla. Riceverai una notifica quando risponderemo alla tua idea.";
 
 "Would you like to contact us?" = "Vuoi contattarci?";
 
@@ -180,6 +180,6 @@
 
 "Yes, I want to post my idea" = "Si, voglio inviare la mia idea";
 
-"Your feedback has been posted to our feedback forum." = "Il tuo commento è stato pubblicato nel nostro Forum Commenti.";
+"Your feedback has been posted to our feedback forum." = "Il tuo commento è stato pubblicato nel nostro Forum.";
 
 "“Anonymous”" = "\"Anonimo\"";
